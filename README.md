@@ -19,3 +19,10 @@ Backend:
 ## Backend Project Start
 
 `nodemon` or `npm run dev`
+
+## .env
+
+MONGO_URI
+PORT
+JWT_SECRET
+NODE_ENV
