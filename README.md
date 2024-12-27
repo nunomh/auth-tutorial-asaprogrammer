@@ -1,6 +1,6 @@
 # Authentication Tutorial using MERN
 
-Advanced MERN Auth Course: Email Verification, Password Recovery, and Welcome Emails  
+Advanced MERN Auth Course: Express API with Login/Logout/Signup as well as Email Verification, Password Recovery, and Welcome Emails
 Based on As a Programmer youtube video https://www.youtube.com/watch?v=pmvEgZC55Cg
 
 ## Technologies Used
@@ -22,7 +22,10 @@ Backend:
 
 ## .env
 
-MONGO_URI
-PORT
-JWT_SECRET
+MONGO_URI  
+PORT  
+JWT_SECRET  
 NODE_ENV
+MAILTRAP_TOKEN  
+MAILTRAP_USER  
+CLIENT_URL
