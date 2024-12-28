@@ -16,9 +16,19 @@ Backend:
   - mongoose
   - crypto
 
+Frontend:
+
+- Vite React
+- react-router-dom
+- framer-motion
+
 ## Backend Project Start
 
 `nodemon` or `npm run dev`
+
+## Frontend Project Start
+
+`npm run dev`
 
 ## .env
 
